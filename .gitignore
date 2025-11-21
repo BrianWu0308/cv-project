@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.tar.gz
+*.zip
+
+# Model files
+*.pth
+*.pt
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
